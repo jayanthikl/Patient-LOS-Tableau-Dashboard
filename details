@@ -1,0 +1,13 @@
+A dashboard is a collection of several views, letting you compare a variety of data simultaneously. For example, if you have a set of views that you review every day, you can create a dashboard that displays all the views at once, rather than navigate to separate worksheets.
+
+Like worksheets, you access dashboards from tabs at the bottom of a workbook. Data in sheets and dashboards is connected; when you modify a sheet, any dashboards containing it change, and vice versa. Both sheets and dashboards update with the latest available data from the data source.
+
+Other articles in this section
+Best Practices for Effective Dashboards
+Create a Dashboard
+Dashboard Starters for Cloud-based Data
+Size and Lay Out Your Dashboard
+Create Dashboard Layouts for Different Devices
+Build Accessible Dashboards
+Manage Sheets in Dashboards and Stories
+Use Dashboard Extensions
